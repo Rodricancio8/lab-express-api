@@ -1,0 +1,68 @@
+[
+    {
+    "name": "Asado",
+    "description": "Argentinian barbecue",
+    "price": 25,
+    "id": 1
+  },
+  {
+    "name": "Empanadas",
+    "description": "Savory pastry filled with meat or cheese",
+    "price": 8,
+    "id": 2
+  },
+  {
+    "name": "Milanesa",
+    "description": "Breaded and fried meat fillet",
+    "price": 18,
+    "id": 3
+  },
+  {
+    "name": "Choripán",
+    "description": "Grilled sausage served in a roll",
+    "price": 10,
+    "id": 4
+  },
+  {
+    "name": "Matambre",
+    "description": "Stuffed, rolled flank steak",
+    "price": 22,
+    "id": 5
+  },
+  {
+    "name": "Locro",
+    "description": "Hearty stew with corn, beans, and meat",
+    "price": 15,
+    "id": 6
+  },
+  {
+    "name": "Provoleta",
+    "description": "Grilled provolone cheese",
+    "price": 12,
+    "id": 7
+  },
+  {
+    "name": "Humita",
+    "description": "Sweet corn tamale",
+    "price": 10,
+    "id": 8
+  },
+  {
+    "name": "Pastelitos",
+    "description": "Sweet pastries filled with dulce de membrillo",
+    "price": 6,
+    "id": 9
+  },
+  {
+    "name": "Ravioles",
+    "description": "Stuffed pasta similar to ravioli",
+    "price": 20,
+    "id": 10
+  },
+  {
+    "name": "Dulce de Leche",
+    "description": "Sweet milk caramel spread",
+    "price": 5,
+    "id": 11
+  }
+]
